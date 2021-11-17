@@ -1,5 +1,7 @@
 # L1BC_Group2_GreenComputing
-# CLASS : L1BC
+CLASS : L1BC
+Group : 2
+Case Study : Green Computing
 # MEMBERS:
 <br> ARVIN YUWONO
 <br> CHRISTOPHER ALEXANDER TJIANDRA
