@@ -8,3 +8,6 @@
 <br> KENNETH SAMUEL DJASMIN
 <br> LEONARDO RICHIE
 <br> VINCENT YONO
+
+# IMPORTANT:
+<br> Please access the 'Final' folder for our result
