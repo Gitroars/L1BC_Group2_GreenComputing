@@ -10,4 +10,4 @@
 <br> VINCENT YONO
 
 # IMPORTANT:
-<br> Please access the 'Final' folder for our result
+<br> Please access the 'Final' folder for our essay result
